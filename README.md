@@ -11,7 +11,5 @@ environment.<br />
 <h2>Enrolled all three users below from Inactive to Active status.</h2>
 <p>
 
+<img width="2008" height="302" alt="image" src="https://github.com/user-attachments/assets/cf6728b6-a12c-4861-a691-f9a9646c6a45" />
 
-  
-<img width="990" height="221" alt="image"
-src="https://github.com/user-attachments/assets/8403082f-5c81-4e15-8106-7a9f28328e20" />
